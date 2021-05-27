@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=3.0?>
+<Intermediate xmlns="http://br.automation.co.at/AS/VC/Intermediate">
+  <Folder Name="DPV">
+    <Folder Name="Drivers">
+      <Folder Name="POBJ">
+        <Object Name="DataSource" ClsId="0x200" Version="1" Type="DS" RefString="Source[global].DataSource[DataSource]">
+          <Reference Name="DriverID" Type="DS">Source[global].DataSource[DataSource]</Reference>
+          <Reference Name="TextGroup" Type="TG">None</Reference>
+          <UInt32 Name="PVCount">13</UInt32>
+          <UInt32 Name="ImageSize">16</UInt32>
+          <Table Name="Variables" Cols="5">
+            <TableHeader>
+              <Column Name="PVID" />
+              <Column Name="PVType" />
+              <Column Name="PVOffset" />
+              <Column Name="PVDim" />
+              <Column Name="PVName" />
+            </TableHeader>
+            <Group Name="Program:zielone2">
+              <UInt16 Name="ID">0</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">0</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">0</Int32>
+            </Group>
+            <Group Name="Program:czerwone2">
+              <UInt16 Name="ID">1</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">1</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">17</Int32>
+            </Group>
+            <Group Name="Program:zolte2">
+              <UInt16 Name="ID">2</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">2</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">35</Int32>
+            </Group>
+            <Group Name="Program:zielone1">
+              <UInt16 Name="ID">3</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">3</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">50</Int32>
+            </Group>
+            <Group Name="Program:czerwone1">
+              <UInt16 Name="ID">4</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">4</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">67</Int32>
+            </Group>
+            <Group Name="Program:zolte1">
+              <UInt16 Name="ID">5</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">5</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">85</Int32>
+            </Group>
+            <Group Name="Program:przycisk">
+              <UInt16 Name="ID">6</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">6</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">100</Int32>
+            </Group>
+            <Group Name="Program:kolory_nocy">
+              <UInt16 Name="ID">7</UInt16>
+              <UInt16 Name="PVType">2</UInt16>
+              <UInt32 Name="PVOffset">7</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">-32768</Double>
+              <Double Name="PVMaxVal">32767</Double>
+              <Int32 Name="Offset">117</Int32>
+            </Group>
+            <Group Name="Program:auta1">
+              <UInt16 Name="ID">8</UInt16>
+              <UInt16 Name="PVType">2</UInt16>
+              <UInt32 Name="PVOffset">9</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">-32768</Double>
+              <Double Name="PVMaxVal">32767</Double>
+              <Int32 Name="Offset">137</Int32>
+            </Group>
+            <Group Name="Program:start">
+              <UInt16 Name="ID">9</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">11</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">151</Int32>
+            </Group>
+            <Group Name="Program:auta2">
+              <UInt16 Name="ID">10</UInt16>
+              <UInt16 Name="PVType">2</UInt16>
+              <UInt32 Name="PVOffset">12</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">-32768</Double>
+              <Double Name="PVMaxVal">32767</Double>
+              <Int32 Name="Offset">165</Int32>
+            </Group>
+            <Group Name="Program:noc">
+              <UInt16 Name="ID">11</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">14</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">179</Int32>
+            </Group>
+            <Group Name="Program:czekaj_">
+              <UInt16 Name="ID">12</UInt16>
+              <UInt16 Name="PVType">1</UInt16>
+              <UInt32 Name="PVOffset">15</UInt32>
+              <UInt32 Name="PVDim">1</UInt32>
+              <Double Name="PVMinVal">0</Double>
+              <Double Name="PVMaxVal">1</Double>
+              <Int32 Name="Offset">191</Int32>
+            </Group>
+          </Table>
+          <Binary Name="Name" Encoding="Base64">UHJvZ3JhbTp6aWVsb25lMgBQcm9ncmFtOmN6ZXJ3b25lMgBQcm9ncmFtOnpvbHRlMgBQcm9ncmFtOnppZWxvbmUxAFByb2dyYW06Y3plcndvbmUxAFByb2dyYW06em9sdGUxAFByb2dyYW06cHJ6eWNpc2sAUHJvZ3JhbTprb2xvcnlfbm9jeQBQcm9ncmFtOmF1dGExAFByb2dyYW06c3RhcnQAUHJvZ3JhbTphdXRhMgBQcm9ncmFtOm5vYwBQcm9ncmFtOmN6ZWthal8A</Binary>
+        </Object>
+      </Folder>
+    </Folder>
+  </Folder>
+</Intermediate>

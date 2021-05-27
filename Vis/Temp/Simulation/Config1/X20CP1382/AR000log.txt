@@ -1,0 +1,21 @@
+Thu May 27 15:01:37 2021
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Thu May 27 15:01:37 2021
+No ARsim registration found!
+
+Thu May 27 15:01:37 2021
+InstanceName: 01d752f86d710750
+
+Thu May 27 15:01:37 2021
+WorkingDirectory: D:\Studia\VI\Vis\Vis\Temp\Simulation\Config1\X20CP1382\
+
+Thu May 27 15:01:37 2021
+COMMAND_COLDSTART
+
+Thu May 27 15:01:39 2021
+Version: B4.83
+
+Thu May 27 17:25:55 2021
+COMMAND_TERMINATE
+

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.9.3.144 SP"?>
+<DataSource xmlns="http://br-automation.co.at/AS/VC/Project" Name="DataSource">
+  <Property Name="AutoRefresh" Value="False"/>
+  <Property Name="DefaultUpdateTime" Value="200"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="IsIntern" Value="False"/>
+  <Property Name="TextGroup" Value="None"/>
+  <DataPoints>
+    <Folder Name="Program">
+      <Property Name="Description" Value=""/>
+      <Property Name="FolderType" Value="Program"/>
+      <DataPoint Name="zielone2">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+      <DataPoint Name="czerwone2">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+      <DataPoint Name="zolte2">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+      <DataPoint Name="zielone1">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+      <DataPoint Name="czerwone1">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+      <DataPoint Name="zolte1">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+      <DataPoint Name="przycisk">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+      <DataPoint Name="kolory_nocy">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="INT"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="INTEGER"/>
+      </DataPoint>
+      <DataPoint Name="auta1">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="INT"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="INTEGER"/>
+      </DataPoint>
+      <DataPoint Name="start">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+      <DataPoint Name="auta2">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="INT"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="INTEGER"/>
+      </DataPoint>
+      <DataPoint Name="noc">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+      <DataPoint Name="czekaj_">
+        <Property Name="ConnectedBySharedResource" Value="False"/>
+        <Property Name="ConnectingVisus" Value="Visu"/>
+        <Property Name="Description" Value=""/>
+        <Property Name="PLCType" Value="BOOL"/>
+        <Property Name="UpdateTime" Value="Default"/>
+        <Property Name="UserID" Value="None"/>
+        <Property Name="VCType" Value="BOOL"/>
+      </DataPoint>
+    </Folder>
+  </DataPoints>
+</DataSource>

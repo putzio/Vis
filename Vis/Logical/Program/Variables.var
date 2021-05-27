@@ -1,0 +1,23 @@
+VAR
+	zolte1 : BOOL;
+	czerwone1 : BOOL;
+	zielone1 : BOOL;
+	zolte2 : BOOL;
+	czerwone2 : BOOL;
+	zielone2 : BOOL;
+	stan : krok;
+	TON_Zielone : TON;
+	TON_Zolte : TON;
+	TON_Czerwone : TON;
+	swiatlo : krok;
+	przycisk : BOOL;
+	noc : BOOL;
+	noc0 : BOOL;
+	start : BOOL;
+	czekaj_ : BOOL;
+	kolory_nocy : INT;
+	TON_AUTA : TON;
+	auta1 : INT;
+	auta2 : INT;
+	licznik : INT;
+END_VAR
